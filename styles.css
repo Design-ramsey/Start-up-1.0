@@ -382,7 +382,7 @@ fill: currentColor;
 @media (max-width: 768px) {
 .hero { grid-template-columns: 1fr; }
 nav { align-items: center; }
-.work-grid { grid-template-columns: repeat(auto-fit, minmax(350px,1fr));
+.work-grid { grid-template-columns: repeat(auto-fit, minmax(1fr));
 }
 .cursor {
   display: none;
